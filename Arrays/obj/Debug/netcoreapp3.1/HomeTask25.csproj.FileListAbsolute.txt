@@ -1,0 +1,14 @@
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\bin\Debug\netcoreapp3.1\HomeTask25.exe
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\bin\Debug\netcoreapp3.1\HomeTask25.deps.json
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\bin\Debug\netcoreapp3.1\HomeTask25.runtimeconfig.json
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\bin\Debug\netcoreapp3.1\HomeTask25.runtimeconfig.dev.json
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\bin\Debug\netcoreapp3.1\HomeTask25.dll
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\bin\Debug\netcoreapp3.1\HomeTask25.pdb
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\obj\Debug\netcoreapp3.1\HomeTask25.csproj.AssemblyReference.cache
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\obj\Debug\netcoreapp3.1\HomeTask25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\obj\Debug\netcoreapp3.1\HomeTask25.AssemblyInfoInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\obj\Debug\netcoreapp3.1\HomeTask25.AssemblyInfo.cs
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\obj\Debug\netcoreapp3.1\HomeTask25.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\obj\Debug\netcoreapp3.1\HomeTask25.dll
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\obj\Debug\netcoreapp3.1\HomeTask25.pdb
+C:\Users\Khalid Suleymanov\source\repos\HomeTask25\HomeTask25\obj\Debug\netcoreapp3.1\HomeTask25.genruntimeconfig.cache
